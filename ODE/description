@@ -1,1 +1,15 @@
 The artificial CPG modeled as a set of ODEs
+Y(1)=V1
+Y(2)=V2
+Y(3)=w1
+Y(4)=w2
+Y(5)=h1
+Y(6)=h2
+Y(7)=s12
+Y(8)=s21
+Y(9)=V0
+Y(10)=w0
+Y(11)=s01
+Y(12)=s10
+Y(13)=s02
+Y(14)=s20
